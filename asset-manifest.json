@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bitcoinAPI/static/css/main.1508e01e.chunk.css",
+    "main.js": "/bitcoinAPI/static/js/main.936b95f7.chunk.js",
+    "main.js.map": "/bitcoinAPI/static/js/main.936b95f7.chunk.js.map",
+    "runtime-main.js": "/bitcoinAPI/static/js/runtime-main.ab814490.js",
+    "runtime-main.js.map": "/bitcoinAPI/static/js/runtime-main.ab814490.js.map",
+    "static/js/2.a89938c4.chunk.js": "/bitcoinAPI/static/js/2.a89938c4.chunk.js",
+    "static/js/2.a89938c4.chunk.js.map": "/bitcoinAPI/static/js/2.a89938c4.chunk.js.map",
+    "static/js/3.7698808b.chunk.js": "/bitcoinAPI/static/js/3.7698808b.chunk.js",
+    "static/js/3.7698808b.chunk.js.map": "/bitcoinAPI/static/js/3.7698808b.chunk.js.map",
+    "index.html": "/bitcoinAPI/index.html",
+    "static/css/main.1508e01e.chunk.css.map": "/bitcoinAPI/static/css/main.1508e01e.chunk.css.map",
+    "static/js/2.a89938c4.chunk.js.LICENSE.txt": "/bitcoinAPI/static/js/2.a89938c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab814490.js",
+    "static/js/2.a89938c4.chunk.js",
+    "static/css/main.1508e01e.chunk.css",
+    "static/js/main.936b95f7.chunk.js"
+  ]
+}
